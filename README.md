@@ -9,4 +9,6 @@ This game have been made by the "Deity Crew", a team of 4 students:
 - Wahren "Waouf" Chiguer
 - Jonathan "Martial" Jarri
 
+We used C# langage with XNA. You need XNA 3.1 and Visual Studio 2008 to compile it !
+
 Website: [Deity Crew] (http://deitycrew.free.fr)
